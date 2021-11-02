@@ -1,0 +1,5 @@
+Algorithm to find whether the number is even or odd
+step 1. Start
+step 2. Accept the number to be checked
+step 3. Divide the number with 2 , if the reminder is 0 it's even , or else it is odd.
+step 4. Stop
