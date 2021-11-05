@@ -1,0 +1,8 @@
+Algorithm to find whether the numberis prime or composite .
+1. Start
+2. Accept a positive integer 'num'
+3. Initialize 'counter' with a value 2
+4. Divide the number with the 'counter
+5. If the remainder is 0 , display that the number 'num' is composite and exit.
+6. Else increment the 'counter' and repeat from step 4 until the 'counter' value is less than 'num'.
+7. After completion of all the steps , display that the number 'num' is prime.
