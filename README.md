@@ -3,6 +3,9 @@
 [simlecompoundinterest.rap](https://github.com/komalranikar/CSEN1011/blob/58d2b2f09c042f7dbdd4add5072cde2cff4c48e6/simlecompoundinterest.rap)<br/>
 [check even or add.rap](https://github.com/komalranikar/CSEN1011/blob/4d4bcd305b28ca72e3d648900a529dd13c0c81dc/check%20even%20or%20add.rap)<br/>
 [prime or composite.rap](https://github.com/komalranikar/CSEN1011/blob/1351d558b6ed9581a174d087e491b6bcb2b90024/prime%20or%20composite.rap)<br/>
+[totalavgpercent.rap](https://github.com/komalranikar/CSEN1011/blob/edea018391d9b1472dfbd16bd95dae65860618af/totalavgpercent.rap)<br/>
+
+
 # CSEN1011 MODULE 1 PROGRAMS.
 
 [swap.c](https://github.com/komalranikar/CSEN1011/blob/3af354379f278eb2d5d86464b63f38c056f57b56/swap.c)<br/>
