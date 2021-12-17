@@ -11,3 +11,4 @@
 [armstrong.cpp](https://github.com/komalranikar/CSEN1011/blob/b9ceed0d1a4fd07a09ece65339073a674607f1bd/armstrong.cpp)<br/>
 [perfectno.cpp](https://github.com/komalranikar/CSEN1011/blob/ee89d063cadedab5f6d7b91cac59a455ceb882e1/perfectno.cpp)<br/>
 [reverseno.c](https://github.com/komalranikar/CSEN1011/blob/387731f3cc58c8656db5a9e04ae8b421c3e7a989/reversenumber.c)<br/>
+[astricpyramid.c](https://github.com/komalranikar/CSEN1011/blob/7368ef314e83b50ba1a38394f78423f7be5d0983/astricpyramid.c)<br/>
