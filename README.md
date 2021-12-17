@@ -1,6 +1,6 @@
 # RAPTOR FILES
 [additions of two numbers.rap](https://github.com/komalranikar/CSEN1011/blob/7fab6e7b3d7ad1d498b7a584b4270543da9cd860/addition%20of%20two%20numbers.rap)<br/>
-
+[simlecompoundinterest](https://github.com/komalranikar/CSEN1011/blob/58d2b2f09c042f7dbdd4add5072cde2cff4c48e6/simlecompoundinterest.rap)<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS.
