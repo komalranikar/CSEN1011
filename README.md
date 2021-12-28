@@ -38,3 +38,4 @@
 [perfectnumfunction.c](https://github.com/komalranikar/CSEN1011/blob/681185ee6fb72cd603c01bd654d745ec4d126da5/perfectnumfunction.c)<br/>
 
 # SUMMATIVE ASSESSMENT PROGRAMS.
+[summativeassessment.c](https://github.com/komalranikar/CSEN1011/blob/2f0948761bd6dbbbe0561391cff1e4747910bbcf/summativeassesment1.c)<br/>
