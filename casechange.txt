@@ -1,0 +1,5 @@
+1. start.
+2. input a character variable named as "c".
+3. check if the character "c" lies between 65 and 90 ,it is lower case character do c+32 to convert it into upper case.
+4. else it is upper case character ,do c-32 to convert it into the lower case.
+5. end.
