@@ -1,0 +1,6 @@
+1. start.
+2. input two variables from user as first angle (a) and second angle (b) of the triangle.
+3. take third angle angle variable as c.
+4. assign third angle as 180-(a+b).
+5. print c which is our third angle of the triangle.
+6. end.
