@@ -14,6 +14,7 @@
 [check even or odd](https://github.com/komalranikar/CSEN1011/blob/687a30ca7e2ccda9ab00c27a439ce5f63a485855/check%20even%20or%20odd.txt)<br/>
 [prime or composite.txt](https://github.com/komalranikar/CSEN1011/blob/9c6413b5e5d7228149201ab9e053cdfeb6d9076a/prime%20or%20composite.txt)<br/>
 [simple interest.txt](https://github.com/komalranikar/CSEN1011/blob/82caf7fc934c31d342d2504f82cc080f1072a48f/simple%20interest.txt)<br/>
+[casechange.txt](https://github.com/komalranikar/CSEN1011/blob/50859d3627daa4f29e12b6dc0ee8574196304557/casechange.txt)<br/>
 
 # CSEN1011 MODULE 1 PROGRAMS.
 
