@@ -1,0 +1,6 @@
+1. start.
+2. take two number as inputs with variable name a and b.
+3. print before swapping the variables with their respective values.
+4. do a=a+b , b=a-b , a=a-b to swap the values of a and b.
+5. print after swapping the variables with their respective values.
+6. end.
