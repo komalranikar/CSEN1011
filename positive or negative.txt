@@ -1,0 +1,5 @@
+1. start.
+2. take the number "num" to be checked from user.
+3. if num>=0 , print "the number is positive".
+4. else print "the number is negative". 
+5. end.
