@@ -15,7 +15,7 @@
 [prime or composite.txt](https://github.com/komalranikar/CSEN1011/blob/9c6413b5e5d7228149201ab9e053cdfeb6d9076a/prime%20or%20composite.txt)<br/>
 [simple interest.txt](https://github.com/komalranikar/CSEN1011/blob/82caf7fc934c31d342d2504f82cc080f1072a48f/simple%20interest.txt)<br/>
 [casechange.txt](https://github.com/komalranikar/CSEN1011/blob/50859d3627daa4f29e12b6dc0ee8574196304557/casechange.txt)<br/>
-
+[swap.txt](https://github.com/komalranikar/CSEN1011/blob/2bb31f7e3dd6da6c71f913230ccf6653b01f8aad/swap.txt)<br/>
 # CSEN1011 MODULE 1 PROGRAMS.
 
 [swap.c](https://github.com/komalranikar/CSEN1011/blob/3af354379f278eb2d5d86464b63f38c056f57b56/swap.c)<br/>
