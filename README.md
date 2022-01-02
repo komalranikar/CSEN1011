@@ -54,3 +54,4 @@
 [calculator.rap](https://github.com/komalranikar/CSEN1011/blob/f8b10aacb574c4853602a9447671fc14fa4e3d5e/calculator.rap)<br/>
 [Q4fibonacci.c](https://github.com/komalranikar/CSEN1011/blob/ada55969f50af22b7e4b6936cf8cc9c726c30ff6/Q4fibonacci.c)<br/>
 [fibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/143707abee46e7e2c30026be087095a1a1d09b23/fibonacci.rap)<br/>
+[Q6sumoffactorial.c](https://github.com/komalranikar/CSEN1011/blob/783715f910dd4bd71265b8b8576b0907fdc28f15/Q6sumoffactorial.c)<br/>
