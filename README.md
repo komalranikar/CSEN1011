@@ -47,5 +47,5 @@
 
 # SUMMATIVE ASSESSMENT PROGRAMS.
 [Q1casechange.c](https://github.com/komalranikar/CSEN1011/blob/6a53bb38f2b322907b7ecc12eee94a5204997feb/Q1casechange.c)<br/>
-[Q1casechange.c](https://github.com/komalranikar/CSEN1011/blob/6a53bb38f2b322907b7ecc12eee94a5204997feb/Q1casechange.c)<br/>
+[Q2factorial.c](https://github.com/komalranikar/CSEN1011/blob/7a30c70c6218a8ba358aab14da3e3e954b3f12b9/Q2factorial.c)<br/>
 [Q3calculator.c](https://github.com/komalranikar/CSEN1011/blob/4d1b1b24359e7acad4aebea9ec818414dbc24e64/Q3calculator.c)<br/>
