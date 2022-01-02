@@ -57,4 +57,4 @@
 [Q6sumoffactorial.c](https://github.com/komalranikar/CSEN1011/blob/783715f910dd4bd71265b8b8576b0907fdc28f15/Q6sumoffactorial.c)<br/>
 [sumoffactorial.rap](https://github.com/komalranikar/CSEN1011/blob/699466abe808d7ba418fede6f64c9c75d6dcb7bd/sumoffactorial.rap)<br/>
 [Q8sumoffibonacci.c](https://github.com/komalranikar/CSEN1011/blob/e4058ee09ca74e7d6f9abe56b2c9f181102f8786/Q8sumoffibonacci.c)<br/>
-[Q8sumoffibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/e4058ee09ca74e7d6f9abe56b2c9f181102f8786/Q8sumoffibonacci.c)<br/>
+[Q8sumoffibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/bb20abfbab2c2fc60d7a69c8cb7c24af366eae4f/Q8sumoffibonacci.rap)<br/>
