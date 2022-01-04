@@ -8,6 +8,8 @@
 [positiveornegative.rap](https://github.com/komalranikar/CSEN1011/blob/2e5c69d6b032047d89031772e51465f4a20fb2ba/positiveornegative.rap)<br/>
 [thirdangle.rap](https://github.com/komalranikar/CSEN1011/blob/ed12c07d7680bffa10d97d2767f482715973a126/thirdangle.rap)<br/>
 [armstron.rap](https://github.com/komalranikar/CSEN1011/blob/81908585304930447df8223ec2cb4aec17266eb5/armstron.rap)<br/>
+[casechange.rap](https://github.com/komalranikar/CSEN1011/blob/7935c8ae5f8df0ee850eca6a5e71930c6d5ead3e/casechange.rap)<br/>
+[factorial.rap](https://github.com/komalranikar/CSEN1011/blob/36c1807aa9a768475b38839b52540a210f403841/factorial.rap)<br/>
 
 # TEXT FILES
 [addition.txt](https://github.com/komalranikar/CSEN1011/blob/bd4f923456c062b2cafa2fd5d28b2afe2be05b72/additon.txt)<br/>
