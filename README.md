@@ -10,6 +10,13 @@
 [armstron.rap](https://github.com/komalranikar/CSEN1011/blob/81908585304930447df8223ec2cb4aec17266eb5/armstron.rap)<br/>
 [casechange.rap](https://github.com/komalranikar/CSEN1011/blob/7935c8ae5f8df0ee850eca6a5e71930c6d5ead3e/casechange.rap)<br/>
 [factorial.rap](https://github.com/komalranikar/CSEN1011/blob/36c1807aa9a768475b38839b52540a210f403841/factorial.rap)<br/>
+[calculator.rap](https://github.com/komalranikar/CSEN1011/blob/f8b10aacb574c4853602a9447671fc14fa4e3d5e/calculator.rap)<br/>
+[fibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/143707abee46e7e2c30026be087095a1a1d09b23/fibonacci.rap)<br/>
+[primerotation.rap](https://github.com/komalranikar/CSEN1011/blob/ab9157bd5ea57ae6f06f0cfb2ae446dcbcdfa704/primerotation.rap)<br/>
+[sumoffactorial.rap](https://github.com/komalranikar/CSEN1011/blob/699466abe808d7ba418fede6f64c9c75d6dcb7bd/sumoffactorial.rap)<br/>
+[collatz.rap](https://github.com/komalranikar/CSEN1011/blob/8264bd826d81459e4afead89675acd6739865ad4/collatz.rap)<br/>
+[Q8sumoffibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/bb20abfbab2c2fc60d7a69c8cb7c24af366eae4f/Q8sumoffibonacci.rap)<br/>
+
 
 # TEXT FILES
 [addition.txt](https://github.com/komalranikar/CSEN1011/blob/bd4f923456c062b2cafa2fd5d28b2afe2be05b72/additon.txt)<br/>
