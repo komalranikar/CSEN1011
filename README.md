@@ -53,6 +53,7 @@
 # CSEN1011 MODULE 3 PROGRAMS.
 [swapping.c](https://github.com/komalranikar/CSEN1011/blob/b6e4a28f465e027f276a74007bfa0da1eb9185fd/swapping.c)<br/>
 [perfectnumfunction.c](https://github.com/komalranikar/CSEN1011/blob/681185ee6fb72cd603c01bd654d745ec4d126da5/perfectnumfunction.c)<br/>
+[evenoddfunc.c](https://github.com/komalranikar/CSEN1011/blob/6cc7c6d50c4bf11a839a2b31a2d7dfc329b48761/evenoddfunc.c)<br/>
 
 # SUMMATIVE ASSESSMENT PROGRAMS.
 [Q1casechange.c](https://github.com/komalranikar/CSEN1011/blob/6a53bb38f2b322907b7ecc12eee94a5204997feb/Q1casechange.c)<br/>
