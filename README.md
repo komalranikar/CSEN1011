@@ -16,7 +16,7 @@
 [sumoffactorial.rap](https://github.com/komalranikar/CSEN1011/blob/699466abe808d7ba418fede6f64c9c75d6dcb7bd/sumoffactorial.rap)<br/>
 [collatz.rap](https://github.com/komalranikar/CSEN1011/blob/8264bd826d81459e4afead89675acd6739865ad4/collatz.rap)<br/>
 [Q8sumoffibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/bb20abfbab2c2fc60d7a69c8cb7c24af366eae4f/Q8sumoffibonacci.rap)<br/>
-
+[primerotation-komal.rap](https://github.com/komalranikar/CSEN1011/blob/409ad299813033ed0694774e490cdac027bed305/primerotation-komal.rap)<br/>
 
 # TEXT FILES
 [addition.txt](https://github.com/komalranikar/CSEN1011/blob/bd4f923456c062b2cafa2fd5d28b2afe2be05b72/additon.txt)<br/>
@@ -67,6 +67,7 @@
 [Q4fibonacci.c](https://github.com/komalranikar/CSEN1011/blob/ada55969f50af22b7e4b6936cf8cc9c726c30ff6/Q4fibonacci.c)<br/>
 [fibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/143707abee46e7e2c30026be087095a1a1d09b23/fibonacci.rap)<br/>
 [Q5primerotation.c](https://github.com/komalranikar/CSEN1011/blob/388f8d73315a98e09f9ea20749fa1dee51e6ba2f/Q5primerotation.c)<br/>
+[primerotation-komal.rap](https://github.com/komalranikar/CSEN1011/blob/409ad299813033ed0694774e490cdac027bed305/primerotation-komal.rap)<br/>
 [primerotation.rap](https://github.com/komalranikar/CSEN1011/blob/ab9157bd5ea57ae6f06f0cfb2ae446dcbcdfa704/primerotation.rap)<br/>
 [Q6sumoffactorial.c](https://github.com/komalranikar/CSEN1011/blob/783715f910dd4bd71265b8b8576b0907fdc28f15/Q6sumoffactorial.c)<br/>
 [sumoffactorial.rap](https://github.com/komalranikar/CSEN1011/blob/699466abe808d7ba418fede6f64c9c75d6dcb7bd/sumoffactorial.rap)<br/>
