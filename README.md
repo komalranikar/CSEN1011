@@ -56,6 +56,10 @@
 [evenoddfunc.c](https://github.com/komalranikar/CSEN1011/blob/6cc7c6d50c4bf11a839a2b31a2d7dfc329b48761/evenoddfunc.c)<br/>
 [powerfunc.c](https://github.com/komalranikar/CSEN1011/blob/96e7ba86b562224a9e364ab637e08d434b17aebe/powerfunc.c)<br/>
 [maximum.c](https://github.com/komalranikar/CSEN1011/blob/7cc5a3487486a3e188fbfe7ced11e28c3d449fe5/maximum.c)<br/>
+[strongnumberfunc.c](https://github.com/komalranikar/CSEN1011/blob/9896cb52306824179dbc05de79dbc7b458dc044f/strongnumberfunc.c)<br/>
+
+# CSEN1011 MODULE 4 PROGRAMS.
+[array.c](https://github.com/komalranikar/CSEN1011/blob/188abb8594ea88a15472d1b21fe643369dad775b/array.c)<br/>
 
 # SUMMATIVE ASSESSMENT PROGRAMS.
 [Q1casechange.c](https://github.com/komalranikar/CSEN1011/blob/6a53bb38f2b322907b7ecc12eee94a5204997feb/Q1casechange.c)<br/>
