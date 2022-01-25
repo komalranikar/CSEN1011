@@ -83,3 +83,6 @@
 
 # SUMMATIVE ASSESSMENT -2
 [summative2-01.c](https://github.com/komalranikar/CSEN1011/blob/c68d54d0b6564a234a388828f93b9400e53a56aa/summative2-01.c)<br/>
+[summative2-02.c](https://github.com/komalranikar/CSEN1011/blob/c9cf3508086f6b2e8c24f087d7207378a8c55bd4/summative2-02.c)<br/>
+[summative2-03.c](https://github.com/komalranikar/CSEN1011/blob/c9cf3508086f6b2e8c24f087d7207378a8c55bd4/summative2-03.c)<br/>
+[summative2-04.c](https://github.com/komalranikar/CSEN1011/blob/c9cf3508086f6b2e8c24f087d7207378a8c55bd4/summative2-04.c)<br/>
