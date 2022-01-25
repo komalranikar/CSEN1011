@@ -80,3 +80,6 @@
 [collatz.rap](https://github.com/komalranikar/CSEN1011/blob/8264bd826d81459e4afead89675acd6739865ad4/collatz.rap)<br/>
 [Q8sumoffibonacci.c](https://github.com/komalranikar/CSEN1011/blob/e4058ee09ca74e7d6f9abe56b2c9f181102f8786/Q8sumoffibonacci.c)<br/>
 [Q8sumoffibonacci.rap](https://github.com/komalranikar/CSEN1011/blob/bb20abfbab2c2fc60d7a69c8cb7c24af366eae4f/Q8sumoffibonacci.rap)<br/>
+
+# SUMMATIVE ASSESSMENT -2
+[summative2-01.c](https://github.com/komalranikar/CSEN1011/blob/c68d54d0b6564a234a388828f93b9400e53a56aa/summative2-01.c)<br/>
