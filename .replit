@@ -1,2 +1,4 @@
-language = "bash"
-run... 
+double d=3.0 +3.5+3.4;
+d/=3;
+int i = int d;
+printf("%d",i); 
