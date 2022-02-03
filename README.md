@@ -73,6 +73,7 @@
   # string
   [stringcompare.c](https://github.com/komalranikar/CSEN1011/blob/02fd7e849c4f154350770266734b2c3fec06fa7e/stringcompare.c)<br/>
   [stringcopy.c](https://github.com/komalranikar/CSEN1011/blob/02fd7e849c4f154350770266734b2c3fec06fa7e/stringcopy.c)<br/>
+  [stringconcat.c](https://github.com/komalranikar/CSEN1011/blob/e7386558fececeaf34f7e8a3ebba6a79a8b3da53/stringconcat.c)<br/>
   [stringlen.c](https://github.com/komalranikar/CSEN1011/blob/02fd7e849c4f154350770266734b2c3fec06fa7e/stringlen.c)<br/>
   
   
