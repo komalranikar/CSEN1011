@@ -57,6 +57,15 @@
 [powerfunc.c](https://github.com/komalranikar/CSEN1011/blob/96e7ba86b562224a9e364ab637e08d434b17aebe/powerfunc.c)<br/>
 [maximum.c](https://github.com/komalranikar/CSEN1011/blob/7cc5a3487486a3e188fbfe7ced11e28c3d449fe5/maximum.c)<br/>
 [strongnumberfunc.c](https://github.com/komalranikar/CSEN1011/blob/9896cb52306824179dbc05de79dbc7b458dc044f/strongnumberfunc.c)<br/>
+ # recursion
+ [sumrecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/sumrecur.c)<br/>
+ [gcdrecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/gcdrecur.c)<br/>
+ [factorialrecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/factorialrecur.c)<br/>
+ [fibonaccirecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/fibonaccirecur.c)<br/>
+ [lcmrecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/lcmrecur.c)<br/>
+ [powerecur](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/powerecur.c)<br/>
+ [productrecur.c](https://github.com/komalranikar/CSEN1011/blob/2fadce3c3950a257889c04e7854b0aa79bc24419/productrecur.c)<br/>
+ 
 
 # CSEN1011 MODULE 4 PROGRAMS.
 [array.c](https://github.com/komalranikar/CSEN1011/blob/188abb8594ea88a15472d1b21fe643369dad775b/array.c)<br/>
