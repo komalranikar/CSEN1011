@@ -4,7 +4,6 @@ int main(){
     int n,decimal=0;
     scanf("%d",&n);
     int arr[n],i=0;
-    
     while(i<n){
     scanf("%d",&arr[i]);
     i+=1;
