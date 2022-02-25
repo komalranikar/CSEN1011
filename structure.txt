@@ -1,0 +1,8 @@
+1.Start
+2.Take a structure of keyword name customer having values customer_name,amountpaid,phone_number.
+3.take name of structure as c containg two data of two customer.
+4.taking two entries for name , amount and mobile number.
+5.if amount is less than 0, print invalid amount else continue further for checking for mobile numbers.
+6.if mobile number is not equal to 10 print "invalid mobile number".
+7.if mobile number is not equal to 0, we need to check if there negativity in it or not, if there is then print "invalid entry".
+8.total the amount of both the customer and print it. 
