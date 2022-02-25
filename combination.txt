@@ -1,0 +1,10 @@
+1.Start
+2.We will take the input of number of girls first and then for boys.
+3.We need to check two conditions :- (i) Number of boys > number of girls.
+						 (ii) Total sum of boys and girls should not be more than 10.
+4.If the above condition does not satisfy we need to print "Invalid".
+5.If the above condition satisfies, we need to continue.
+6.make a function which find outs the factorial.
+7.the number of ways in which boys can be seated is factorial of number of boys, and for girls not together in each other side is 
+  number of spaces left for girls into minus of total number of girls.
+  like if number of boys is 5 and girls is 3 to be fitted in 11 spaces then formula will be 5!*6*5*4.

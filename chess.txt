@@ -1,0 +1,7 @@
+1.Start
+2.Take 4 variables, 1st two for position of 1st box and last two for position of 2nd box.
+3.If the sum of position of 1st box is even then initialize a variable a as white colour,if not then black..
+4.If the sum of position of 2nd box is even then initialize a variable k as white colour,if not then black.
+5.Then compare both the variables to check if they are same print "True".
+6.If they are different, print "False".
+7.Stop
